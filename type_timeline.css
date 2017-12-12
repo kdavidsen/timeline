@@ -395,7 +395,7 @@ p {
 	font-size: 4em;
 	text-align: left;
 	position: absolute;
-	left: 15%;
+	left: 5%;
 	top: 0;
 	margin-left: 20px;
 	letter-spacing: .3em;
@@ -418,7 +418,7 @@ p {
 	text-align: right;
 	position: absolute;
 	top: 0;
-	right: 25%;
+	right: 15%;
 	margin-right: 20px;
 	letter-spacing: .3em;
 }
